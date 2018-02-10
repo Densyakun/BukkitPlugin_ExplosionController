@@ -1,6 +1,7 @@
 # ExplosionController
 爆破耐性プラグイン。ブロックの爆破やエンティティのダメージ設定も可能。
 
+公開日: 2016/01/02（再公開日: 2018/02/11）
 - [Download](https://github.com/Densyakun/ExplosionController/releases)
 
 ## config.yml
